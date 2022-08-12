@@ -44,7 +44,7 @@ publishing {
             afterEvaluate { artifact(tasks.getByName("bundleReleaseAar")) }
             groupId = "com.github.sunshinenote"
             artifactId = "utils"
-            version = "1.0.0"
+            version = "1.0.1"
         }
     }
 }
